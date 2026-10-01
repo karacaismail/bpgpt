@@ -21,3 +21,5 @@
 - Kontroller: mevcut `tests/browser-check.cjs`, `tests/atlas-check.cjs`, `tests/atlas-profile-check.cjs`; test ortamını ve kaynak isteği listelerini kaydet.
 
 - Her aile `projeler/aile-NN.html` statik rehberine sahiptir. Tanım, amaç, kullanıcı, üç adım, örnek, bugünkü durum ve önerilen iş korunur. `tests/guides-check.cjs` her46rehberi320px/noJS ile doğrular. CSS/app/tokenimport cache anahtarları içerikten üretilir; göreli altklasör varlık yollarını koru.
+
+- Görsel hiyerarşi: koyu yeşil örnek alanı, sade segment görünüm seçici, kompakt proje satırları. Renk ve yoğunluk tokenları assets/tokens.css içinde; görsel değişiklikler mevcut üç tarayıcı ve profil testleriyle doğrulanır.
