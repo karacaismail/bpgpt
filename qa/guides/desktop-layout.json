@@ -1,0 +1,42 @@
+{
+  "footer": {
+    "position": "static",
+    "top": 1540.875
+  },
+  "main": {
+    "height": 1423.875,
+    "overflow": "visible"
+  },
+  "sections": [
+    {
+      "label": "Neden var?",
+      "top": 415.6875,
+      "bottom": 558.0625
+    },
+    {
+      "label": "Kim kullanır?",
+      "top": 558.0625,
+      "bottom": 700.4375
+    },
+    {
+      "label": "Nasıl kullanılır?",
+      "top": 700.4375,
+      "bottom": 874.78125
+    },
+    {
+      "label": "Bir kullanım örneği",
+      "top": 898.78125,
+      "bottom": 1019.546875
+    },
+    {
+      "label": "Bugün ne durumda?",
+      "top": 1043.546875,
+      "bottom": 1212.3125
+    },
+    {
+      "label": "Nasıl bir işe dönüşebilir?",
+      "top": 1212.3125,
+      "bottom": 1460.875
+    }
+  ]
+}

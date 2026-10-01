@@ -19,3 +19,5 @@
 - `python3 tools/build_site.py` statik ana sayfa ve puanlar sayfasını üretir; özgün özel model/kaynaklar yayımlanmaz.
 - Ana rota ham HTML+CSS+JS+favicon toplamı 200.000 byte altında kalır. `puanlar.html` ve JSON üretim verisi ilk rotada fetch/prefetch edilmez.
 - Kontroller: mevcut `tests/browser-check.cjs`, `tests/atlas-check.cjs`, `tests/atlas-profile-check.cjs`; test ortamını ve kaynak isteği listelerini kaydet.
+
+- Her aile `projeler/aile-NN.html` statik rehberine sahiptir. Tanım, amaç, kullanıcı, üç adım, örnek, bugünkü durum ve önerilen iş korunur. `tests/guides-check.cjs` her46rehberi320px/noJS ile doğrular. CSS/app/tokenimport cache anahtarları içerikten üretilir; göreli altklasör varlık yollarını koru.

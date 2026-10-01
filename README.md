@@ -47,3 +47,7 @@ node tests/atlas-profile-check.cjs
 Üretim Python 3.9+ standart kitaplığıyla çalışır. Testler mevcut Playwright kurulumunu kullanır; browser executable yolları ortam değişkenleriyle seçilebilir. `tests/visual-diff.cjs` mevcut PNGJS/Pixelmatch ile önce/sonra görsel farkını çıkarır; referansları onaylamaz veya değiştirmez. İlk ana rota ham HTML+CSS+JS+favicon bütçesi 200.000 byte; tam puan gerekçeleri kullanıcı `puanlar.html` bağlantısını açınca yüklenir.
 
 Yeni UX doğrulaması: [qa/atlas-v2/QA.md](qa/atlas-v2/QA.md). Google Sheets bağlantısı kullanıcı tarafından verilmiştir; bu repo Drive paylaşım izinlerini değiştirmez.
+
+## Her girişim için proje rehberi
+
+Ana sayfadaki “Bu proje nedir?” bağlantıları 46 ayrı rehbere açılır. Örnek: [QRAL](projeler/aile-34.html). `python3 tools/build_site.py` rehberleri de üretir; `node tests/guides-check.cjs` yolları ve mobil okuma akışını doğrular. [QA kanıtı](qa/guides/QA.md).
