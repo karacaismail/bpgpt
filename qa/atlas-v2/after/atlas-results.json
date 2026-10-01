@@ -1,0 +1,125 @@
+[
+  {
+    "browser": "chromium",
+    "stage": "identity",
+    "definitions": 46,
+    "types": 46,
+    "modes": true,
+    "defaultView": "discover",
+    "overflow": false
+  },
+  {
+    "browser": "chromium",
+    "stage": "qral",
+    "count": 1,
+    "definition": "QRAL, açık sekmelerin başlık ve bağlantılarını Markdown, HTML veya düz metin gibi biçimlerde panoya kopyalayan bir Chrome uzantısıdır. Not ve rapor hazırlayan kişinin kaynakları tekrar biçimlendirmesini kolaylaştırır; QR üretimi de vardır ama ürün yalnız QR aracı değildir.",
+    "purpose": 1,
+    "workflow": 3,
+    "example": 1
+  },
+  {
+    "browser": "chromium",
+    "stage": "mode",
+    "query": "qral",
+    "open": true,
+    "decisionPressed": "true",
+    "visibleFinance": true
+  },
+  {
+    "browser": "chromium",
+    "stage": "return",
+    "query": "qral",
+    "open": true,
+    "discoverPressed": "true"
+  },
+  {
+    "browser": "chromium",
+    "stage": "filters",
+    "categoryCount": 15,
+    "empty": 0,
+    "resetCount": 46,
+    "resetInput": ""
+  },
+  {
+    "browser": "firefox",
+    "stage": "identity",
+    "definitions": 46,
+    "types": 46,
+    "modes": true,
+    "defaultView": "discover",
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "stage": "qral",
+    "count": 1,
+    "definition": "QRAL, açık sekmelerin başlık ve bağlantılarını Markdown, HTML veya düz metin gibi biçimlerde panoya kopyalayan bir Chrome uzantısıdır. Not ve rapor hazırlayan kişinin kaynakları tekrar biçimlendirmesini kolaylaştırır; QR üretimi de vardır ama ürün yalnız QR aracı değildir.",
+    "purpose": 1,
+    "workflow": 3,
+    "example": 1
+  },
+  {
+    "browser": "firefox",
+    "stage": "mode",
+    "query": "qral",
+    "open": true,
+    "decisionPressed": "true",
+    "visibleFinance": true
+  },
+  {
+    "browser": "firefox",
+    "stage": "return",
+    "query": "qral",
+    "open": true,
+    "discoverPressed": "true"
+  },
+  {
+    "browser": "firefox",
+    "stage": "filters",
+    "categoryCount": 15,
+    "empty": 0,
+    "resetCount": 46,
+    "resetInput": ""
+  },
+  {
+    "browser": "webkit",
+    "stage": "identity",
+    "definitions": 46,
+    "types": 46,
+    "modes": true,
+    "defaultView": "discover",
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "stage": "qral",
+    "count": 1,
+    "definition": "QRAL, açık sekmelerin başlık ve bağlantılarını Markdown, HTML veya düz metin gibi biçimlerde panoya kopyalayan bir Chrome uzantısıdır. Not ve rapor hazırlayan kişinin kaynakları tekrar biçimlendirmesini kolaylaştırır; QR üretimi de vardır ama ürün yalnız QR aracı değildir.",
+    "purpose": 1,
+    "workflow": 3,
+    "example": 1
+  },
+  {
+    "browser": "webkit",
+    "stage": "mode",
+    "query": "qral",
+    "open": true,
+    "decisionPressed": "true",
+    "visibleFinance": true
+  },
+  {
+    "browser": "webkit",
+    "stage": "return",
+    "query": "qral",
+    "open": true,
+    "discoverPressed": "true"
+  },
+  {
+    "browser": "webkit",
+    "stage": "filters",
+    "categoryCount": 15,
+    "empty": 0,
+    "resetCount": 46,
+    "resetInput": ""
+  }
+]

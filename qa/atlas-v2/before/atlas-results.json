@@ -1,0 +1,26 @@
+[
+  {
+    "browser": "chromium",
+    "stage": "identity",
+    "definitions": 0,
+    "types": 0,
+    "modes": false,
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "stage": "identity",
+    "definitions": 0,
+    "types": 0,
+    "modes": false,
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "stage": "identity",
+    "definitions": 0,
+    "types": 0,
+    "modes": false,
+    "overflow": false
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "initialRequests": [
+    "http://127.0.0.1:8768/",
+    "http://127.0.0.1:8768/assets/style.css",
+    "http://127.0.0.1:8768/assets/app.js",
+    "http://127.0.0.1:8768/assets/tokens.css",
+    "http://127.0.0.1:8768/assets/favicon.svg"
+  ],
+  "network": [
+    {
+      "url": "http://127.0.0.1:8768/",
+      "transferBytes": 167973,
+      "encodedBytes": 167673,
+      "decodedBytes": 167673
+    },
+    {
+      "url": "http://127.0.0.1:8768/assets/style.css",
+      "transferBytes": 10419,
+      "encodedBytes": 10119,
+      "decodedBytes": 10119
+    },
+    {
+      "url": "http://127.0.0.1:8768/assets/app.js",
+      "transferBytes": 3257,
+      "encodedBytes": 2957,
+      "decodedBytes": 2957
+    },
+    {
+      "url": "http://127.0.0.1:8768/assets/tokens.css",
+      "transferBytes": 1347,
+      "encodedBytes": 1047,
+      "decodedBytes": 1047
+    },
+    {
+      "url": "http://127.0.0.1:8768/assets/favicon.svg",
+      "transferBytes": 520,
+      "encodedBytes": 220,
+      "decodedBytes": 220
+    }
+  ],
+  "sheetHref": "https://docs.google.com/spreadsheets/d/1Gg83iAAs0g5xVeNzanD90TTprQ0l70u-OZmDJbaJ2nc/edit?usp=drivesdk",
+  "summaryStyle": {
+    "tapHighlight": "rgba(27, 89, 68, 0.14)",
+    "border": "0px",
+    "outline": "none",
+    "shadow": "none",
+    "selection": ""
+  },
+  "touchFinance": true,
+  "orientation": {
+    "query": "qral",
+    "view": "decide",
+    "open": true,
+    "overflow": false
+  },
+  "hitTargets": [
+    {
+      "label": "BPGPT",
+      "width": 54.578125,
+      "height": 48
+    },
+    {
+      "label": "Girişimler",
+      "width": 61.046875,
+      "height": 48
+    },
+    {
+      "label": "Strateji",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "label": "Google Sheets’te aç",
+      "width": 130.21875,
+      "height": 48
+    },
+    {
+      "label": "Projeleri tanı",
+      "width": 130.625,
+      "height": 49.171875
+    },
+    {
+      "label": "Gelir açısından karşılaştır",
+      "width": 226.78125,
+      "height": 49.171875
+    },
+    {
+      "label": "project-search",
+      "width": 291.21875,
+      "height": 49.171875
+    },
+    {
+      "label": "Tümü",
+      "width": 60.875,
+      "height": 48
+    },
+    {
+      "label": "Tarayıcı ve kişisel araçlar",
+      "width": 192.59375,
+      "height": 48
+    },
+    {
+      "label": "İşletme operasyonları",
+      "width": 169.625,
+      "height": 48
+    },
+    {
+      "label": "Geliştirici araçları",
+      "width": 142.140625,
+      "height": 48
+    },
+    {
+      "label": "Eğitim ve içerik",
+      "width": 126.421875,
+      "height": 48
+    },
+    {
+      "label": "Hizmet ve karar dosyaları",
+      "width": 195.390625,
+      "height": 48
+    },
+    {
+      "label": "Kapsam dışı kayıtlar",
+      "width": 159.359375,
+      "height": 48
+    }
+  ],
+  "resizeInput": {
+    "touch": 0,
+    "coarse": false
+  },
+  "capabilities": {
+    "pointer": true,
+    "anyPointer": true,
+    "touch": 1,
+    "target": "48px",
+    "sheets": [
+      {
+        "href": "http://127.0.0.1:8768/assets/style.css",
+        "rules": [
+          {
+            "condition": "(min-width: 48rem)",
+            "active": false
+          },
+          {
+            "condition": "(any-pointer: coarse)",
+            "active": true
+          },
+          {
+            "condition": "(prefers-reduced-motion: reduce)",
+            "active": true
+          },
+          {
+            "condition": "print",
+            "active": false
+          }
+        ]
+      }
+    ]
+  },
+  "textScaleOverflow": false,
+  "nojs": {
+    "count": 46,
+    "open": true,
+    "enhancementHidden": true,
+    "overflow": false
+  },
+  "scorePageInitiallyRequested": false
+}
