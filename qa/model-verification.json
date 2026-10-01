@@ -1,0 +1,29 @@
+{
+  "qa": {
+    "boundary": {
+      "negativeWeight": "n.a.",
+      "blankWeight": "n.a.",
+      "rankChanged": true,
+      "failInvestment": "n.a.",
+      "nonpositiveSales": "n.a.",
+      "blankPriceSales": "n.a.",
+      "budgetExceeded": "Aşar",
+      "invalidLocalWeight": "n.a.",
+      "invalidGate": "Yalnız deney",
+      "zeroWeeklyCapacity": 0,
+      "zeroBudgetRequiredSales": 95,
+      "zeroBudgetPositiveUpfront": "Aşar",
+      "zeroHourEconomicEqualsCash": true,
+      "zeroBudgetZeroUpfront": "Sığar",
+      "cohortTotalsEqual": true
+    },
+    "jsonExcelParity": true,
+    "scoreInputChanged": true,
+    "targetInputResult": [
+      185
+    ],
+    "engine": "Artifact Tool recalculation; Excel desktop not_run",
+    "rows": 46
+  },
+  "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

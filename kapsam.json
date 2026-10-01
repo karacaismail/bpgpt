@@ -1,0 +1,2368 @@
+{
+  "date": "2026-10-01",
+  "source_document_count": 236,
+  "source_project_documents": 233,
+  "records": [
+    {
+      "id": "A-001",
+      "source": "İş Fikirleri",
+      "document": "A-001",
+      "family": "DENETIM VE ACIK KARARLAR",
+      "kind": "Açıklama / denetim",
+      "words": 8143,
+      "sha256": "7ec35d6e88011ee438c68cd64d4d170c029769e85cbfeba7726099899569870e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-002",
+      "source": "İş Fikirleri",
+      "document": "A-002",
+      "family": "README",
+      "kind": "Açıklama / denetim",
+      "words": 2343,
+      "sha256": "2c3691dd932f34fb565238b3288b8b81e0d81e8da575e2aee77e8291e91f58e4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-003",
+      "source": "İş Fikirleri",
+      "document": "A-003",
+      "family": "actionplan wbs araci",
+      "kind": "Ürün kapsamı",
+      "words": 8429,
+      "sha256": "4bc54244de5d594b5b48503cf2cb01a40d4c86356844eb00ec847f4863baea8c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-004",
+      "source": "İş Fikirleri",
+      "document": "A-004",
+      "family": "actionplan wbs araci",
+      "kind": "İş fikri",
+      "words": 2924,
+      "sha256": "8f035b0a495d9ae0486881e0ee34dba3b4cc9c3182aa2dd08c1d731f830668ca",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-005",
+      "source": "İş Fikirleri",
+      "document": "A-005",
+      "family": "agenticgemini dashboard",
+      "kind": "Ürün kapsamı",
+      "words": 8199,
+      "sha256": "c8e73b0ea5d94bba9998ad9bee7269a8dab299bb0c7dcbe0191a0849bb02b9de",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-006",
+      "source": "İş Fikirleri",
+      "document": "A-006",
+      "family": "agenticgemini dashboard",
+      "kind": "İş fikri",
+      "words": 3081,
+      "sha256": "fce87f259c25d30e4c8fba318d248e6454643ead4df6873d4e7314c487117424",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-007",
+      "source": "İş Fikirleri",
+      "document": "A-007",
+      "family": "ai first ea apeeap",
+      "kind": "Ürün kapsamı",
+      "words": 9394,
+      "sha256": "a03ba28ad6361531e92d28b93f59804140f379463d3c1a5b9f0ddf77954706cd",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-008",
+      "source": "İş Fikirleri",
+      "document": "A-008",
+      "family": "ai first ea apeeap",
+      "kind": "İş fikri",
+      "words": 3049,
+      "sha256": "0da10c176b1a580a09fb7e9f0653de9c008c6b2b59de185eb01fc7d49d1e9c29",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-009",
+      "source": "İş Fikirleri",
+      "document": "A-009",
+      "family": "aicommandcard dynamiccomponentgpt",
+      "kind": "Ürün kapsamı",
+      "words": 7078,
+      "sha256": "9e38647bcac95e3061f7057e4b3cd91e5314b5ac26092c6572dfcbe286aeb949",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-010",
+      "source": "İş Fikirleri",
+      "document": "A-010",
+      "family": "aicommandcard dynamiccomponentgpt",
+      "kind": "İş fikri",
+      "words": 2944,
+      "sha256": "b21b7c9be0d2c3ae36e39af638226cff687cde401f22a03b911cf792dd14d404",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-011",
+      "source": "İş Fikirleri",
+      "document": "A-011",
+      "family": "arsam parselq pazar yeri",
+      "kind": "Ürün kapsamı",
+      "words": 12830,
+      "sha256": "56571c0d73ee69c1dc4aab0edc9030f9cd2afa8d4cf30a8fc4e4cd84ede0aa1c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-012",
+      "source": "İş Fikirleri",
+      "document": "A-012",
+      "family": "arsam parselq pazar yeri",
+      "kind": "İş fikri",
+      "words": 10372,
+      "sha256": "5199def0beb3b8919af4b832ff0f2994259696810a6e5b93a1fe4cb066e72a53",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-013",
+      "source": "İş Fikirleri",
+      "document": "A-013",
+      "family": "Üretici KOBİ dijital başlangıç paketi",
+      "kind": "Ürün kapsamı",
+      "words": 13757,
+      "sha256": "2277f8fbfb1561ea5c5145ef6ccd30d3c18dd168bb8c2fc419727f2e8be5eda4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-014",
+      "source": "İş Fikirleri",
+      "document": "A-014",
+      "family": "Üretici KOBİ dijital başlangıç paketi",
+      "kind": "İş fikri",
+      "words": 5636,
+      "sha256": "b3bfd081f7aec640cac8269c23063c98fd430c02badf578158b564a9a5adb7a8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-015",
+      "source": "İş Fikirleri",
+      "document": "A-015",
+      "family": "atonota pazarlama saas",
+      "kind": "Ürün kapsamı",
+      "words": 8326,
+      "sha256": "209532493b2210119082e37c74c90952ec24b6e69db2a29d398fff1211a39083",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-016",
+      "source": "İş Fikirleri",
+      "document": "A-016",
+      "family": "atonota pazarlama saas",
+      "kind": "İş fikri",
+      "words": 3311,
+      "sha256": "20a690e9a2b79788a2024fcd6e5443875dcf5734f9a99196998b804691a2a17e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-017",
+      "source": "İş Fikirleri",
+      "document": "A-017",
+      "family": "b2bproduct lottie gsap bilesenler",
+      "kind": "Ürün kapsamı",
+      "words": 7863,
+      "sha256": "09cead4a3ec1c20e9976e639771a96489abd5f4ec0fead37b5b2cd204391d0c8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-018",
+      "source": "İş Fikirleri",
+      "document": "A-018",
+      "family": "b2bproduct lottie gsap bilesenler",
+      "kind": "İş fikri",
+      "words": 3076,
+      "sha256": "7497ca9829e32f16d8d6f3214733b6676629099150741745c714ca88af121ac1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-019",
+      "source": "İş Fikirleri",
+      "document": "A-019",
+      "family": "banner post uretim sistemi",
+      "kind": "Ürün kapsamı",
+      "words": 8314,
+      "sha256": "08fa8274ebc1502ae5e40f4f10410987e09a51b13bd5e55bd62cba01f897bceb",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-020",
+      "source": "İş Fikirleri",
+      "document": "A-020",
+      "family": "banner post uretim sistemi",
+      "kind": "İş fikri",
+      "words": 3030,
+      "sha256": "bf106cedf5463e90c5bb862dabfa2509ba5256272cedeeba22d362889e6100d6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-021",
+      "source": "İş Fikirleri",
+      "document": "A-021",
+      "family": "claude resource guardian",
+      "kind": "Ürün kapsamı",
+      "words": 15017,
+      "sha256": "39cb537c5b7ce8e4a5f54e2cf531f253794c96ccd14df7f9921a4abf7106371b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-022",
+      "source": "İş Fikirleri",
+      "document": "A-022",
+      "family": "claude resource guardian",
+      "kind": "İş fikri",
+      "words": 5838,
+      "sha256": "59de07f7450fa90c02decd8d7b5e0f421b2dddd4b98b6b0b7deebd7986fc5010",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-023",
+      "source": "İş Fikirleri",
+      "document": "A-023",
+      "family": "condtechstackform karar sihirbazi",
+      "kind": "Ürün kapsamı",
+      "words": 8459,
+      "sha256": "dcc39bc05ce7e2f207687e297cf423f7122ed3a758d82935bcabc944e20023b6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-024",
+      "source": "İş Fikirleri",
+      "document": "A-024",
+      "family": "condtechstackform karar sihirbazi",
+      "kind": "İş fikri",
+      "words": 2906,
+      "sha256": "cfee4a764894e02a4a98431bc64a379b92f3cd5f685441f3e86511fe899ecda0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-025",
+      "source": "İş Fikirleri",
+      "document": "A-025",
+      "family": "cronbi great doers b4b",
+      "kind": "Ürün kapsamı",
+      "words": 8679,
+      "sha256": "9bc56e09ec0aae2b496822e892365cb68d37f78cc364b0c2c13eacbd6b0f73d7",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-026",
+      "source": "İş Fikirleri",
+      "document": "A-026",
+      "family": "cronbi great doers b4b",
+      "kind": "İş fikri",
+      "words": 2836,
+      "sha256": "e8d6420745e68632379323e55ed3f0442f00bb731eba294dea96a3879930fa27",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-027",
+      "source": "İş Fikirleri",
+      "document": "A-027",
+      "family": "cronhr",
+      "kind": "Ürün kapsamı",
+      "words": 9104,
+      "sha256": "76ec009bab2ee7bd15b03ba4535e2ef5d928f738ebd8621d728acb2aafdcd146",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-028",
+      "source": "İş Fikirleri",
+      "document": "A-028",
+      "family": "cronhr",
+      "kind": "İş fikri",
+      "words": 3373,
+      "sha256": "cbcbe1d8a6cb277105df0d4ed6d26f977578d0ddfeaf4bfcd25668f03e52aad1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-029",
+      "source": "İş Fikirleri",
+      "document": "A-029",
+      "family": "Çok şubeli hizmet işletmesi danışmanlığı",
+      "kind": "Ürün kapsamı",
+      "words": 14782,
+      "sha256": "d2bbee0704312400098693a3f337c84977060150b2efaf4bb593c47aac429c32",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-030",
+      "source": "İş Fikirleri",
+      "document": "A-030",
+      "family": "Çok şubeli hizmet işletmesi danışmanlığı",
+      "kind": "İş fikri",
+      "words": 6589,
+      "sha256": "f4a19088e8c936f5f8078cb10c6bf13f861e9201e79c5d3c1f929f56dde64096",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-031",
+      "source": "İş Fikirleri",
+      "document": "A-031",
+      "family": "dcp site kopyalama paneli",
+      "kind": "Ürün kapsamı",
+      "words": 332,
+      "sha256": "b4b767230093c66d5439be480fb786d35e0965f70299dfee45ea813b0a31c8ef",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-032",
+      "source": "İş Fikirleri",
+      "document": "A-032",
+      "family": "dcp site kopyalama paneli",
+      "kind": "İş fikri",
+      "words": 1474,
+      "sha256": "cd8aea2e8c6356a6e8118659644115e833de1e1910c87f7b6906d16eb896c13e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-033",
+      "source": "İş Fikirleri",
+      "document": "A-033",
+      "family": "ddd moduler monolith framework renderer",
+      "kind": "Ürün kapsamı",
+      "words": 8347,
+      "sha256": "a7db37cb9a9fe0a0384c81367f9583ac748b307e81bedb989dddb7394390c2a2",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-034",
+      "source": "İş Fikirleri",
+      "document": "A-034",
+      "family": "ddd moduler monolith framework renderer",
+      "kind": "İş fikri",
+      "words": 2823,
+      "sha256": "101ae0c7def2c761528adac587b2b00c923c898bba4294dfdebc1f3380f6c0d3",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-035",
+      "source": "İş Fikirleri",
+      "document": "A-035",
+      "family": "destektesvik",
+      "kind": "Ürün kapsamı",
+      "words": 15536,
+      "sha256": "35fd33c4e98c27a4fe01dbb9516b3eecaf2b60ec4b36852980b2739f4469d351",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-036",
+      "source": "İş Fikirleri",
+      "document": "A-036",
+      "family": "destektesvik",
+      "kind": "İş fikri",
+      "words": 9253,
+      "sha256": "ee4196aadc3f893810f47c2103f03e2a692b056c36e200cde7b0121cb96781f4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-037",
+      "source": "İş Fikirleri",
+      "document": "A-037",
+      "family": "devpanel",
+      "kind": "Ürün kapsamı",
+      "words": 8724,
+      "sha256": "ec67a16335d80f1c410a7a73be6b34b1ec553b34e5cf0434017ed31faa53953d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-038",
+      "source": "İş Fikirleri",
+      "document": "A-038",
+      "family": "devpanel",
+      "kind": "İş fikri",
+      "words": 2719,
+      "sha256": "6628e3ca13db87184966af62efc7cb4320f020cfe8f5dc7e3609b6c8030c1001",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-039",
+      "source": "İş Fikirleri",
+      "document": "A-039",
+      "family": "e menum",
+      "kind": "Ürün kapsamı",
+      "words": 8033,
+      "sha256": "9d8b8ea34bcfd9d0617e865ba283117bd6552214b32def077cd7a4a281e8383a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-040",
+      "source": "İş Fikirleri",
+      "document": "A-040",
+      "family": "e menum",
+      "kind": "İş fikri",
+      "words": 3057,
+      "sha256": "5823723692630cc051398ac290b87357b75595039195e14b7a8cc6ffe8d17297",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-041",
+      "source": "İş Fikirleri",
+      "document": "A-041",
+      "family": "eklentiler urun kesif pipeline",
+      "kind": "Ürün kapsamı",
+      "words": 8270,
+      "sha256": "0ef41d61e764ca7618fed1c4325fd462a90033920f1b2758591c396c4dc36327",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-042",
+      "source": "İş Fikirleri",
+      "document": "A-042",
+      "family": "eklentiler urun kesif pipeline",
+      "kind": "İş fikri",
+      "words": 3170,
+      "sha256": "b2f81545135cf6d5d10974eb1981d0ee13625745b10283514408f96ae878f162",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-043",
+      "source": "İş Fikirleri",
+      "document": "A-043",
+      "family": "Kapsam dışı kayıt",
+      "kind": "Ürün kapsamı",
+      "words": 259,
+      "sha256": "91a5ec9709ea93e22f8d658e47087903526b6a354b6820a64bbf7d32eaf4827b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-044",
+      "source": "İş Fikirleri",
+      "document": "A-044",
+      "family": "Kapsam dışı kayıt",
+      "kind": "İş fikri",
+      "words": 1087,
+      "sha256": "7a4713eb1ca8cd773ba54462be1d34e23734b4f82793b85d861c2302449a618e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-045",
+      "source": "İş Fikirleri",
+      "document": "A-045",
+      "family": "frontend atlasi",
+      "kind": "Ürün kapsamı",
+      "words": 13108,
+      "sha256": "d19c77e6935e2b7a8f25c09d330b5816dc9538a620256f4cb384c5ce99b1b567",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-046",
+      "source": "İş Fikirleri",
+      "document": "A-046",
+      "family": "frontend atlasi",
+      "kind": "İş fikri",
+      "words": 6308,
+      "sha256": "0d40a5bbe4049a6527d831489cd09d1bddb99be331301158dd1b9ec2124f7c1d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-047",
+      "source": "İş Fikirleri",
+      "document": "A-047",
+      "family": "g11n i18n rehberi",
+      "kind": "Ürün kapsamı",
+      "words": 7967,
+      "sha256": "546307f19595bc617e2bdd98d842ee612af44ad78c38ebfb6ba063f946ad41d1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-048",
+      "source": "İş Fikirleri",
+      "document": "A-048",
+      "family": "g11n i18n rehberi",
+      "kind": "İş fikri",
+      "words": 2986,
+      "sha256": "a7b695e4096191fadc1ad93be12c0a5baa34558c9a060f97145031a190c0b4e4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-049",
+      "source": "İş Fikirleri",
+      "document": "A-049",
+      "family": "hrmshakedis asgari iscilik uyum",
+      "kind": "Ürün kapsamı",
+      "words": 14838,
+      "sha256": "a85e09c73b1e701535fb540837aaaf13c353c7e64bb2825211e0a492133254e8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-050",
+      "source": "İş Fikirleri",
+      "document": "A-050",
+      "family": "hrmshakedis asgari iscilik uyum",
+      "kind": "İş fikri",
+      "words": 8781,
+      "sha256": "5c2b909a6144555c49e1160ed99c36ff6d53fc632c2e61264f388819da120948",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-051",
+      "source": "İş Fikirleri",
+      "document": "A-051",
+      "family": "Markasız B2B pazar yeri hizmeti",
+      "kind": "Ürün kapsamı",
+      "words": 8039,
+      "sha256": "7ac2f9f58986d7b43d1b0cbbce188a3fc3851548752f4347f3253fbaee13885a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-052",
+      "source": "İş Fikirleri",
+      "document": "A-052",
+      "family": "Markasız B2B pazar yeri hizmeti",
+      "kind": "İş fikri",
+      "words": 3033,
+      "sha256": "e58d8459f129d7aecaff57376ba1ffa57c3e9a8c964d9254743fdc89c7fa045a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-053",
+      "source": "İş Fikirleri",
+      "document": "A-053",
+      "family": "karar kitabi thedecissionbook",
+      "kind": "Ürün kapsamı",
+      "words": 14269,
+      "sha256": "8ac02b892f13b7de77458787200d9925164123557a48f9d321d28d200f40b591",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-054",
+      "source": "İş Fikirleri",
+      "document": "A-054",
+      "family": "karar kitabi thedecissionbook",
+      "kind": "İş fikri",
+      "words": 7225,
+      "sha256": "0827c875a5a3d1287470bfcdb63c7fce9e949e5a756a94604408b1ef899fb646",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-055",
+      "source": "İş Fikirleri",
+      "document": "A-055",
+      "family": "Çok dilli kurumsal site hizmeti",
+      "kind": "Ürün kapsamı",
+      "words": 14415,
+      "sha256": "3b30d4e3960f33c0ebc1063febb0cbb689bfe67761ddd72ed8bb92886e512638",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-056",
+      "source": "İş Fikirleri",
+      "document": "A-056",
+      "family": "Çok dilli kurumsal site hizmeti",
+      "kind": "İş fikri",
+      "words": 6424,
+      "sha256": "fa00894d45b1df640bbad5274b09e685b729c55082acf8d33d1d98fb9f5d2513",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-057",
+      "source": "İş Fikirleri",
+      "document": "A-057",
+      "family": "lifeos habbitchrm",
+      "kind": "Ürün kapsamı",
+      "words": 7965,
+      "sha256": "246f4fc4ed88c8372db23b2ac9dbced07303db3f735f83b29d53e54fa775d702",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-058",
+      "source": "İş Fikirleri",
+      "document": "A-058",
+      "family": "lifeos habbitchrm",
+      "kind": "İş fikri",
+      "words": 2805,
+      "sha256": "4c7557f47c58a779eeff791bf64c992274102cd771d3cb0b170a440c363913a0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-059",
+      "source": "İş Fikirleri",
+      "document": "A-059",
+      "family": "luquitglasses",
+      "kind": "Ürün kapsamı",
+      "words": 8220,
+      "sha256": "842b49bdc882e4f1dbbdd88600f5faa4d2b1cf8c67991211168b5eaa1b817dc5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-060",
+      "source": "İş Fikirleri",
+      "document": "A-060",
+      "family": "luquitglasses",
+      "kind": "İş fikri",
+      "words": 2781,
+      "sha256": "a523f40ecf34661dad91fa3e3d188fd85b58c6b9872e22604964e13bd3422426",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-061",
+      "source": "İş Fikirleri",
+      "document": "A-061",
+      "family": "metaframer kernel mimari",
+      "kind": "Ürün kapsamı",
+      "words": 8199,
+      "sha256": "ca20d343d8c417f799b317b6fd84d4d87037c415f7c67d70afbeb0f37e5d7d37",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-062",
+      "source": "İş Fikirleri",
+      "document": "A-062",
+      "family": "metaframer kernel mimari",
+      "kind": "İş fikri",
+      "words": 3188,
+      "sha256": "b13f02f72e5be3ed0160cc4ef89e4efe825f9a248bfe3f183653f3c0628e7f1a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-063",
+      "source": "İş Fikirleri",
+      "document": "A-063",
+      "family": "metaframework domain checklist",
+      "kind": "Ürün kapsamı",
+      "words": 7457,
+      "sha256": "e0bc377fca52b6a763537df592c47f0c6384dae49a7e9e3599ea73ddd6915f72",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-064",
+      "source": "İş Fikirleri",
+      "document": "A-064",
+      "family": "metaframework domain checklist",
+      "kind": "İş fikri",
+      "words": 2841,
+      "sha256": "5dcc05b9c17cfcc184659456d34ebe9226f3ee0a548c788c4f4f1d6d0d83a4c0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-065",
+      "source": "İş Fikirleri",
+      "document": "A-065",
+      "family": "projector docs viewer",
+      "kind": "Ürün kapsamı",
+      "words": 8505,
+      "sha256": "505eb95f8c33daf2040475d02c927cc59d5718e1a37a2c078c69d9be3ee13da4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-066",
+      "source": "İş Fikirleri",
+      "document": "A-066",
+      "family": "projector docs viewer",
+      "kind": "İş fikri",
+      "words": 2879,
+      "sha256": "2122bd939e1f21489f38f81e8f097fac56d8cf1b73b23e3761eda91c1d2af3e9",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-067",
+      "source": "İş Fikirleri",
+      "document": "A-067",
+      "family": "Anonim kurucu karar şablonu",
+      "kind": "Ürün kapsamı",
+      "words": 8046,
+      "sha256": "5a4e0ce31c927a2ad074c4b8b95a08ed6512a5874dd8aecf04bd356a559c2135",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-068",
+      "source": "İş Fikirleri",
+      "document": "A-068",
+      "family": "Anonim kurucu karar şablonu",
+      "kind": "İş fikri",
+      "words": 3109,
+      "sha256": "fa44e049eb1bd5aa45722273513de31218b4feff3228dc3ad2ac258604fc2470",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-069",
+      "source": "İş Fikirleri",
+      "document": "A-069",
+      "family": "qral chrome eklentisi",
+      "kind": "Ürün kapsamı",
+      "words": 13048,
+      "sha256": "9499a34229bdf1d110399b03c6d386ec55bd76ae20af5adb999f1f9ef74ac822",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-070",
+      "source": "İş Fikirleri",
+      "document": "A-070",
+      "family": "qral chrome eklentisi",
+      "kind": "İş fikri",
+      "words": 4669,
+      "sha256": "d0813d4ad126d784179f7360fb6d2bd70c21560d2b56c512cba08ae620227be2",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-071",
+      "source": "İş Fikirleri",
+      "document": "A-071",
+      "family": "signator eposta imzasi",
+      "kind": "Ürün kapsamı",
+      "words": 8274,
+      "sha256": "48070a21ca381fd1377811111573745aa53e8687e9ea0c56c311b2f70a89d043",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-072",
+      "source": "İş Fikirleri",
+      "document": "A-072",
+      "family": "signator eposta imzasi",
+      "kind": "İş fikri",
+      "words": 2709,
+      "sha256": "07ad744494038c9b14686a7cf1b84fb8bbf0e980c58f88d8b905374e5ff4cb45",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-073",
+      "source": "İş Fikirleri",
+      "document": "A-073",
+      "family": "software factory",
+      "kind": "Ürün kapsamı",
+      "words": 14026,
+      "sha256": "fa5fde2a31d48cdb6b5c1e3c9e6681a670b5f3906b02455fe167f8f216a6a9c9",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-074",
+      "source": "İş Fikirleri",
+      "document": "A-074",
+      "family": "software factory",
+      "kind": "İş fikri",
+      "words": 4682,
+      "sha256": "70c14303ae87cb2cd7d6273e06c898ebc480dc4a3feed23b37cec64e4e529c48",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-075",
+      "source": "İş Fikirleri",
+      "document": "A-075",
+      "family": "sonbirarsa kurucu sunum hizmeti",
+      "kind": "Ürün kapsamı",
+      "words": 13432,
+      "sha256": "31d55114a4e29acea250c92127c34aaecbf0569e92643bce4ad56b0f015cd60b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-076",
+      "source": "İş Fikirleri",
+      "document": "A-076",
+      "family": "sonbirarsa kurucu sunum hizmeti",
+      "kind": "İş fikri",
+      "words": 5711,
+      "sha256": "0e4427dd4e2e9c215cac938b1de687811f98c90c33c49eb39517707feff36bd6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-077",
+      "source": "İş Fikirleri",
+      "document": "A-077",
+      "family": "strategy simulator",
+      "kind": "Ürün kapsamı",
+      "words": 14979,
+      "sha256": "d3bd76fd9bcef8b9b55efa86067b478935dfc6f938408bf1d5d3bfd55af5aee3",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-078",
+      "source": "İş Fikirleri",
+      "document": "A-078",
+      "family": "strategy simulator",
+      "kind": "İş fikri",
+      "words": 5794,
+      "sha256": "a47ea72b43371f85c3acf19c9a4e868e23a7363e7b6b49b774847af61cb315d9",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-079",
+      "source": "İş Fikirleri",
+      "document": "A-079",
+      "family": "stratejik kar pusulasi",
+      "kind": "Ürün kapsamı",
+      "words": 15054,
+      "sha256": "24338b1cff7383c05b782a2656f4836a80981415074e9bbeb71623c438b389e7",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-080",
+      "source": "İş Fikirleri",
+      "document": "A-080",
+      "family": "stratejik kar pusulasi",
+      "kind": "İş fikri",
+      "words": 6029,
+      "sha256": "562cffa0094ab04b2f7c2668838d811dfbab728b412ec708443290fe1fc2207e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-081",
+      "source": "İş Fikirleri",
+      "document": "A-081",
+      "family": "titanlar eticaret egitimi",
+      "kind": "Ürün kapsamı",
+      "words": 16224,
+      "sha256": "d2fcfa38793b8cdb2737eb90c3875b84902d1dfd43cd14b0a44254482efa5964",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-082",
+      "source": "İş Fikirleri",
+      "document": "A-082",
+      "family": "titanlar eticaret egitimi",
+      "kind": "İş fikri",
+      "words": 6665,
+      "sha256": "e1a3fff859b8fe84047a40b4053098c4761e0ed8b208f5bab85965d348511799",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-083",
+      "source": "İş Fikirleri",
+      "document": "A-083",
+      "family": "Kapsam dışı operasyon materyali",
+      "kind": "Ürün kapsamı",
+      "words": 265,
+      "sha256": "fd58895f66ec35ba9d6ef9dc78be74212f4982e010b617c0aedf5bac219b5766",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-084",
+      "source": "İş Fikirleri",
+      "document": "A-084",
+      "family": "Kapsam dışı operasyon materyali",
+      "kind": "İş fikri",
+      "words": 1348,
+      "sha256": "5ce3e21b73917dcd4172fcd042ef3329766b9de4ae1809b1b47caa6068f1dc95",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-085",
+      "source": "İş Fikirleri",
+      "document": "A-085",
+      "family": "vise os",
+      "kind": "Ürün kapsamı",
+      "words": 16328,
+      "sha256": "b11bb4861d20ae3c8ef7103042be8ebf707e6b88e89d335da6016a3775da6156",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-086",
+      "source": "İş Fikirleri",
+      "document": "A-086",
+      "family": "vise os",
+      "kind": "İş fikri",
+      "words": 5785,
+      "sha256": "2a296080081329bdf4c378d872b9f219401e1ffb4723fb69a2d51b5b87cf44ed",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-087",
+      "source": "İş Fikirleri",
+      "document": "A-087",
+      "family": "voleybol volley tap",
+      "kind": "Ürün kapsamı",
+      "words": 7316,
+      "sha256": "c7bb8ea07244df6a51ba1698bd86b5427df6d07ab5e5f408dfa8abec7ab848af",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-088",
+      "source": "İş Fikirleri",
+      "document": "A-088",
+      "family": "voleybol volley tap",
+      "kind": "İş fikri",
+      "words": 2793,
+      "sha256": "8280ed86675f7bbb3ec1da1a26cbad6581cdb655b790ca5dd48b929bbac37ca3",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-089",
+      "source": "İş Fikirleri",
+      "document": "A-089",
+      "family": "woocommnts woocommerce eklentisi",
+      "kind": "Ürün kapsamı",
+      "words": 8364,
+      "sha256": "af12ab431ec0ee70b7f00cd5a937dfe35378932d451a1f03fbce63048401490f",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-090",
+      "source": "İş Fikirleri",
+      "document": "A-090",
+      "family": "woocommnts woocommerce eklentisi",
+      "kind": "İş fikri",
+      "words": 2959,
+      "sha256": "67d0a0a1791690dec033b1bfc2c72c65b439539f29c46de3595b3b215db05df0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-091",
+      "source": "İş Fikirleri",
+      "document": "A-091",
+      "family": "wordpress nis eklentileri",
+      "kind": "Ürün kapsamı",
+      "words": 13905,
+      "sha256": "3de410a71c30fec56b8722949a1279673fcafaa7de0fdcfeba6c61f5f2c1ff6b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-092",
+      "source": "İş Fikirleri",
+      "document": "A-092",
+      "family": "wordpress nis eklentileri",
+      "kind": "İş fikri",
+      "words": 5878,
+      "sha256": "330622e96fc382fe5c897abc16762649ed5820885e09f9fd3c642c62f7c64458",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-093",
+      "source": "İş Fikirleri",
+      "document": "A-093",
+      "family": "zabuno",
+      "kind": "Ürün kapsamı",
+      "words": 14563,
+      "sha256": "18a511154346a5dad9f282be3888473ddee07acd628e73a14f70b7a1fba6b10b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "A-094",
+      "source": "İş Fikirleri",
+      "document": "A-094",
+      "family": "zabuno",
+      "kind": "İş fikri",
+      "words": 8702,
+      "sha256": "d0ebe2e0153b55d8ce014a8faee26b2ba2a1739a798ae33bf1384c3432c94789",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-001",
+      "source": "GPT Strateji Notları",
+      "document": "B-001",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "Açıklama / denetim",
+      "words": 547,
+      "sha256": "6a84b6ee9575f4b2be70a321e63a3e38afffbd2db209744c4ecd3797013b1f81",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-002",
+      "source": "GPT Strateji Notları",
+      "document": "B-002",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 998,
+      "sha256": "55b9bd787634f7e0125889a9969b6939edb665b30963f732b9e63d2db850b802",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-003",
+      "source": "GPT Strateji Notları",
+      "document": "B-003",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 326,
+      "sha256": "1e5da144777a5989109be9549dd0dc9476c7c6cce837ed1076e7f0c86b2cd0e6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-004",
+      "source": "GPT Strateji Notları",
+      "document": "B-004",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 240,
+      "sha256": "3d5237f4112e8df854bceae278cd71ea97711bfb89e6ea642a486be21363b8a5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-005",
+      "source": "GPT Strateji Notları",
+      "document": "B-005",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 359,
+      "sha256": "5ecb9225f68febf415de01f144180b9979f501f2c53ad71b48de608be2362e01",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-006",
+      "source": "GPT Strateji Notları",
+      "document": "B-006",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 261,
+      "sha256": "d967453dad1b37518ec817a50c24991aa81568a1120fd1673d9804a0418251d7",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-007",
+      "source": "GPT Strateji Notları",
+      "document": "B-007",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 150,
+      "sha256": "efde41a2c735b5213843a9ff4e6970c5eb59b7a4ecd10edd910c83eeea1879d8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-008",
+      "source": "GPT Strateji Notları",
+      "document": "B-008",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 141,
+      "sha256": "92bb5a75cec9d92873c6591cdcd9690cd2028882a421a4bdcd86319dc78992f4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-009",
+      "source": "GPT Strateji Notları",
+      "document": "B-009",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 192,
+      "sha256": "e6847236dd8cb5a231b7464940b924caf61484b88da1b46979cf5935116bbcf2",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-010",
+      "source": "GPT Strateji Notları",
+      "document": "B-010",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 200,
+      "sha256": "45d8dd8ec531b5cc5f3cea0fc23eed9f0e4d7a3ea091006f240e0f8169a8de78",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-011",
+      "source": "GPT Strateji Notları",
+      "document": "B-011",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1075,
+      "sha256": "79f3dbba6c841bce63855838de62b66db8721c4b714038225ad5e3096d6152b0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-012",
+      "source": "GPT Strateji Notları",
+      "document": "B-012",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 207,
+      "sha256": "1b04ea8af39c6aae704571246d60b674c1ce18e5fba88771b825a4556e0fd85c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-013",
+      "source": "GPT Strateji Notları",
+      "document": "B-013",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 191,
+      "sha256": "7d5b98096e26343f5096679f8a15a125449f6d08f34f361157a516f0f5decdc8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-014",
+      "source": "GPT Strateji Notları",
+      "document": "B-014",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 191,
+      "sha256": "90f54fbca5ce9f0bdbf60bf4a4938026482976af672bf35112e25c15b8202d41",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-015",
+      "source": "GPT Strateji Notları",
+      "document": "B-015",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 220,
+      "sha256": "76dde2fd2d623fcb73737872b771f587bdedef7afaabc4ec3f6f2d6846b84b05",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-016",
+      "source": "GPT Strateji Notları",
+      "document": "B-016",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 192,
+      "sha256": "77f47904ce0a20c5b5bc140f1c17afe5e02bbfa48ec260b4fc78f88afca37022",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-017",
+      "source": "GPT Strateji Notları",
+      "document": "B-017",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 197,
+      "sha256": "ec961d61084439289f5b64f8240ee6e4cf0ce4caa279dba44b3a87d7483d92db",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-018",
+      "source": "GPT Strateji Notları",
+      "document": "B-018",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 238,
+      "sha256": "dd3a0b90c10e076dbafa35c2889d835852fccd7796988c99efcd6a8c203997ec",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-019",
+      "source": "GPT Strateji Notları",
+      "document": "B-019",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 244,
+      "sha256": "c4badd922351514ee86133650997f2c5adf65b822e5bf8d15256003c35a97119",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-020",
+      "source": "GPT Strateji Notları",
+      "document": "B-020",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 230,
+      "sha256": "144aa1a8dd6cc0a8f18e63150dee9417e40c1d7543f50404daf2ae5d2e4a2dac",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-021",
+      "source": "GPT Strateji Notları",
+      "document": "B-021",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 253,
+      "sha256": "b73002921a779e15df7791036aa0bdf71557a98790d509254d77e2c2b672bfd6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-022",
+      "source": "GPT Strateji Notları",
+      "document": "B-022",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 254,
+      "sha256": "eeff86813704e2be0a224ba88653d9f9f6d81a7c551dba54e073db3376191f39",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-023",
+      "source": "GPT Strateji Notları",
+      "document": "B-023",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 271,
+      "sha256": "7e566caf5100fda09784102004fb990d193b8808ce4dc3202bbcaedaef4185df",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-024",
+      "source": "GPT Strateji Notları",
+      "document": "B-024",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 154,
+      "sha256": "aa10f8f8e36a75eb2b3ebc52a1de3da8ef603705da795f9506d27a42d27b0b9f",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-025",
+      "source": "GPT Strateji Notları",
+      "document": "B-025",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1074,
+      "sha256": "2c40ad4e40aa3286fbb3fd49f7f41a2d97275f25028cfb536ae07524dd0fb558",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-026",
+      "source": "GPT Strateji Notları",
+      "document": "B-026",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 281,
+      "sha256": "18fb0d3033180b4595525c7cd5fe31c679a01db3bf94519b5cc5f71573b76499",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-027",
+      "source": "GPT Strateji Notları",
+      "document": "B-027",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 146,
+      "sha256": "2fe2955ebd2a7f90f47f7a12297759192e25d726699dc3dba01517c43b23eabf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-028",
+      "source": "GPT Strateji Notları",
+      "document": "B-028",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 140,
+      "sha256": "3579a3d97a58b7296073188ceb88b1759d876d36605dc765d001b409ef606265",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-029",
+      "source": "GPT Strateji Notları",
+      "document": "B-029",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 296,
+      "sha256": "06357b0744d2390d3b590c19d9769eb274b5c4b2b0a15b6da69d6da24da2785e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-030",
+      "source": "GPT Strateji Notları",
+      "document": "B-030",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 151,
+      "sha256": "ec06daa74ef2adfa107f95410ab2fc90c84ca55f79d37c3ca21fd7392e6d89c5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-031",
+      "source": "GPT Strateji Notları",
+      "document": "B-031",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 148,
+      "sha256": "ba6b5c821188e13210e14868a39f956e981531f0f436dada3b47c196670e1b24",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-032",
+      "source": "GPT Strateji Notları",
+      "document": "B-032",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 287,
+      "sha256": "35ef1cf69ef05615a47d36566631e8c4a981e2457807341a79448984827e840a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-033",
+      "source": "GPT Strateji Notları",
+      "document": "B-033",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 184,
+      "sha256": "d6f4a187288b6be838b5cbd47f437266b27f62945145b8bfa5d666a98df68dcf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-034",
+      "source": "GPT Strateji Notları",
+      "document": "B-034",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 186,
+      "sha256": "aa06bcd509026f4251326a6880e8920b63baf69fdbe2cab97b9bbab900ff15cb",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-035",
+      "source": "GPT Strateji Notları",
+      "document": "B-035",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 266,
+      "sha256": "0b20df989f37b7bcc2d13a57cc3fa9914b2ede2cdf1c16c74c7190397cd1262c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-036",
+      "source": "GPT Strateji Notları",
+      "document": "B-036",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1043,
+      "sha256": "aad4a763471a8879bd3ae3ce47b6ea5630e7eeba9d14b0c9804d1481e0a4488d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-037",
+      "source": "GPT Strateji Notları",
+      "document": "B-037",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 201,
+      "sha256": "9f9ebe5a118c01d749ac2e0950c0cacd1cbaccaaf82725dcbb595e1817ae340c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-038",
+      "source": "GPT Strateji Notları",
+      "document": "B-038",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 288,
+      "sha256": "028afe8779ab8b1670795669294d14cb72042718a02a2789e22dcbe316670226",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-039",
+      "source": "GPT Strateji Notları",
+      "document": "B-039",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 145,
+      "sha256": "5fa65e86c138232cb2394db25b9633911050cdd995f931a9b19918f50025daab",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-040",
+      "source": "GPT Strateji Notları",
+      "document": "B-040",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 350,
+      "sha256": "c1924ad84fca491fe7d270f5e12c1cf03a2e3aafecf964d5ddc4c012e8bdcf0b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-041",
+      "source": "GPT Strateji Notları",
+      "document": "B-041",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 238,
+      "sha256": "3dfbec8be8ac8205e3f570dddc56b8a693df40108e45848e7093324ccf3b91fe",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-042",
+      "source": "GPT Strateji Notları",
+      "document": "B-042",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1077,
+      "sha256": "ebdb5ed113e8570bf04ddffd9fa9a7124d34f7d41223ec3a8dc6ce581b3b7483",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-043",
+      "source": "GPT Strateji Notları",
+      "document": "B-043",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 148,
+      "sha256": "6c43a9eb4e9feef457e990978e13dac096ca4cad303e05a69072c1477bf096a5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-044",
+      "source": "GPT Strateji Notları",
+      "document": "B-044",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 299,
+      "sha256": "569323b04f18e48268c79db30124762079d15afe6eaf20c4fb9dcceb2e72fc36",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-045",
+      "source": "GPT Strateji Notları",
+      "document": "B-045",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 340,
+      "sha256": "9e3e3a1e7394e4edea7a435e231b41d3e690f8ea8f1345d6c101fb0fe4cbce37",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-046",
+      "source": "GPT Strateji Notları",
+      "document": "B-046",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1129,
+      "sha256": "25bd6aeb2581cc64ff77143857ace862de0862d337374a3491f697e289b49e63",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-047",
+      "source": "GPT Strateji Notları",
+      "document": "B-047",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1146,
+      "sha256": "8d007fc5f1f9f4d4c15c31ff8a0fa3f68e0975abbfcc44ec1327aa3a050f3e76",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-048",
+      "source": "GPT Strateji Notları",
+      "document": "B-048",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 262,
+      "sha256": "81d0b7be926810799a6d5ec24980b13c1f35edf04743cc3848d3d46a54141c1a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-049",
+      "source": "GPT Strateji Notları",
+      "document": "B-049",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 153,
+      "sha256": "dc98889a00ec8153156334d6bbeda0efe39740b7fc1bd9de20638e771f3712a8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-050",
+      "source": "GPT Strateji Notları",
+      "document": "B-050",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 151,
+      "sha256": "4b2b9c06af3b97f79f13e1946980972c6ee0663c9d767f072eb7d3373d3f6792",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-051",
+      "source": "GPT Strateji Notları",
+      "document": "B-051",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1078,
+      "sha256": "ee44ec932f0d1bd30fa3a8bf3fc881378c3ccf885a7f20655538ae644b2aa21b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-052",
+      "source": "GPT Strateji Notları",
+      "document": "B-052",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 185,
+      "sha256": "f68914c7e6d9703866fc30aada81109dc1817cdfcb1619e428bb287d18f52876",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-053",
+      "source": "GPT Strateji Notları",
+      "document": "B-053",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 275,
+      "sha256": "82d12d9b8afbb47582ef239699041f265324f815ffc12126f94711d064e734f6",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-054",
+      "source": "GPT Strateji Notları",
+      "document": "B-054",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 263,
+      "sha256": "9a33368ed4dc030addd786303735f8ba9dc2b90d646b57f818392c39a8096bc9",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-055",
+      "source": "GPT Strateji Notları",
+      "document": "B-055",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 141,
+      "sha256": "4e1105b1e04fb01ded7b0d75a612a3b0eab20b5a6dbbe65461dc29083e14651d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-056",
+      "source": "GPT Strateji Notları",
+      "document": "B-056",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 142,
+      "sha256": "ef8847c7c5e1e0d81fadf6d23bdbb5b8000d234a794564b78d95559d5761d370",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-057",
+      "source": "GPT Strateji Notları",
+      "document": "B-057",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 291,
+      "sha256": "a71e67a21670a88fd2d2945ab965391298df0477aabf2db9475dc48fb70ea0ab",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-058",
+      "source": "GPT Strateji Notları",
+      "document": "B-058",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1060,
+      "sha256": "382152a752272354b92ec537bddc252353642f8270506c7a19b4d98cd11dc045",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-059",
+      "source": "GPT Strateji Notları",
+      "document": "B-059",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 225,
+      "sha256": "640fcea04f60b2681dfd807e760f706448c3741d56e8d20a08af7a62e8a0ffe0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-060",
+      "source": "GPT Strateji Notları",
+      "document": "B-060",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 146,
+      "sha256": "8c98bcc646d21b3fc7cdf1d0fe4a822727c018c4265957d73d7f28fbd497103c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-061",
+      "source": "GPT Strateji Notları",
+      "document": "B-061",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 188,
+      "sha256": "752dcf5cebe2b365c816aa7ce28fd6115e84658d0dd583635de2dbd751044b3a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-062",
+      "source": "GPT Strateji Notları",
+      "document": "B-062",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 336,
+      "sha256": "5c25ba002aa913c7359c6046691362e5f552b1b50b1d1f05acbbb2bcbeafe5dd",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-063",
+      "source": "GPT Strateji Notları",
+      "document": "B-063",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 342,
+      "sha256": "0b25e8462d302b59e67c1d26ee726686869d25a10a21b66f704457fc11e83e42",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-064",
+      "source": "GPT Strateji Notları",
+      "document": "B-064",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 342,
+      "sha256": "8ef8ac18f2493a433935a6a539abb2d9967d05bbe1339df9fd38452a66608853",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-065",
+      "source": "GPT Strateji Notları",
+      "document": "B-065",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 151,
+      "sha256": "7787592dd04a8ffbfa67cdecc271961c07b35af3abc5d98ba3b796a03b505d14",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-066",
+      "source": "GPT Strateji Notları",
+      "document": "B-066",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "4799ed78a0ba0722763d5dcd892a61c050107ebe50b277702c741d437b258e81",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-067",
+      "source": "GPT Strateji Notları",
+      "document": "B-067",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 139,
+      "sha256": "711d6f6b4227b375a5685882dcb6fbba574ab83864f984d124890bf3ef98cd18",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-068",
+      "source": "GPT Strateji Notları",
+      "document": "B-068",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 139,
+      "sha256": "447d0a6b5a83d4d803fe7a8839656f79d379c3708d64b469aaa019e6d6848d40",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-069",
+      "source": "GPT Strateji Notları",
+      "document": "B-069",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "45912aaafad7c7def43da2c8e648a2baaeb2e2a14314303c5b925b41509eba1a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-070",
+      "source": "GPT Strateji Notları",
+      "document": "B-070",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 138,
+      "sha256": "8e2db3d45972099241bd3dcdb1a7ca041b8ab66963b6c2d86f567bcb1e57286b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-071",
+      "source": "GPT Strateji Notları",
+      "document": "B-071",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 341,
+      "sha256": "f74a13e12db613c909ccd46e078e70df50edc6ba264828a2b120bfb5fc2b3f38",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-072",
+      "source": "GPT Strateji Notları",
+      "document": "B-072",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 318,
+      "sha256": "898db660bc6aecf640aad0bd2dedcf99ef461f7a9d1ab43c8d84bc5d0eeaddaf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-073",
+      "source": "GPT Strateji Notları",
+      "document": "B-073",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 971,
+      "sha256": "e9afa56df5f7ad00adde55207316ac3d0191b42268fb17fc2dee5a97a39714e5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-074",
+      "source": "GPT Strateji Notları",
+      "document": "B-074",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 288,
+      "sha256": "f7454ad6e26814c8b0eb198029ef992af757b0d651f46def64eae8dc17214bfb",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-075",
+      "source": "GPT Strateji Notları",
+      "document": "B-075",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 183,
+      "sha256": "f97d6d0e9c7cc8ec4edf9cd6fda16140b3149909070642d86e6b5f15d20e062b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-076",
+      "source": "GPT Strateji Notları",
+      "document": "B-076",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 140,
+      "sha256": "4346dffc48a6fa165cd3b0cbf71f597d20be08354be5665c1c34830877551b78",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-077",
+      "source": "GPT Strateji Notları",
+      "document": "B-077",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 188,
+      "sha256": "4ca91e4b71229b0a485f9682052e5420115000dfe11041ff7def447909e4629e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-078",
+      "source": "GPT Strateji Notları",
+      "document": "B-078",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 193,
+      "sha256": "8141812fd53416df598f220babc3b8eca10481fd7f1f06fef00d63d309e3fd64",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-079",
+      "source": "GPT Strateji Notları",
+      "document": "B-079",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1106,
+      "sha256": "77d3bae3f8017aa1b092686f612c9f09f4652e52400ac96ac7ba62e80da7bca1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-080",
+      "source": "GPT Strateji Notları",
+      "document": "B-080",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "a1e5373f29e02dd7dd488d952cac49c9a410f374ef1625b08a80ceeadc2c05da",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-081",
+      "source": "GPT Strateji Notları",
+      "document": "B-081",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 194,
+      "sha256": "b348a4b7efab0560e6801a5cbbaf424ee0a6d6367cba9ec7da0c813b01d33175",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-082",
+      "source": "GPT Strateji Notları",
+      "document": "B-082",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 134,
+      "sha256": "044737d490bb47520dd0a3a39c4f42ec4a131fd39c94f51d19959e1e2fb18f32",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-083",
+      "source": "GPT Strateji Notları",
+      "document": "B-083",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "6c0a007383bd041e1bd8bcf630bae3ee1060fb22667cb73d01a4f21a2706f0b1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-084",
+      "source": "GPT Strateji Notları",
+      "document": "B-084",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 133,
+      "sha256": "08aa239cb599ea3c36819e533cbcdc31aed2f569d2d6143b49890b7e18c0bca1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-085",
+      "source": "GPT Strateji Notları",
+      "document": "B-085",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 252,
+      "sha256": "43df1144f8dc2026839f974ef3bae2ce8c13369b208e031a630a847b075a58f5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-086",
+      "source": "GPT Strateji Notları",
+      "document": "B-086",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 231,
+      "sha256": "8a04e5f73a1d1f6626ebe1769066457eaf8b843110e04f080591a802ba1caeda",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-087",
+      "source": "GPT Strateji Notları",
+      "document": "B-087",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 268,
+      "sha256": "c035745e1649e45929a3243be95a048dd27345ffeaaf17eda80d61e8fffd5caf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-088",
+      "source": "GPT Strateji Notları",
+      "document": "B-088",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 280,
+      "sha256": "97a06e246790fcd70106d2a70d618d6eb881eacaea5ef8162512f329570f0250",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-089",
+      "source": "GPT Strateji Notları",
+      "document": "B-089",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 283,
+      "sha256": "c24fb2fe5f9c829c1395e844a2bc3adf8bd92b2a83e2baa167cdec3bfb30c89c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-090",
+      "source": "GPT Strateji Notları",
+      "document": "B-090",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 221,
+      "sha256": "bc774bc8c471856e686c7d174b56a6f2865454ab915e58be1afab49a18a3664d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-091",
+      "source": "GPT Strateji Notları",
+      "document": "B-091",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 207,
+      "sha256": "01de66e6092c75f04e3fe6f5e00d17b0385590de5b58c8fde47813b75ab43cb0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-092",
+      "source": "GPT Strateji Notları",
+      "document": "B-092",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 205,
+      "sha256": "8254d8e34aaccc3b449234535222a95252f92f019ab1bf0247811b2b135491c3",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-093",
+      "source": "GPT Strateji Notları",
+      "document": "B-093",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 231,
+      "sha256": "ed502c99fe59692bdd1a195c115b68a7f658114d9926ccbc84417c30125f5eab",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-094",
+      "source": "GPT Strateji Notları",
+      "document": "B-094",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 342,
+      "sha256": "e2254ad335b1b36626efc3eac00294256549d4c018075d99eae4af88e03cc0f7",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-095",
+      "source": "GPT Strateji Notları",
+      "document": "B-095",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 143,
+      "sha256": "0a4a25d353ba9720e84917e40ade612767a57b94b08b6439d4eb05b9dad84718",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-096",
+      "source": "GPT Strateji Notları",
+      "document": "B-096",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1055,
+      "sha256": "d88ac0ce7ad30232a58ac20f50a59307b7e9d08ece1c6ba55a0eb6c3ae0cefd2",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-097",
+      "source": "GPT Strateji Notları",
+      "document": "B-097",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 183,
+      "sha256": "6106634388effcf36aa3a617cadd157d4a61688815d6b4e497ce168d861c1bff",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-098",
+      "source": "GPT Strateji Notları",
+      "document": "B-098",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 133,
+      "sha256": "6421907b1419e69e0de4990bdf78532ff530fac98a30dda9552ceb1ff7f4077d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-099",
+      "source": "GPT Strateji Notları",
+      "document": "B-099",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 133,
+      "sha256": "aa1b604e335051d24aad4af390dd7e81be7173519b0366cbd559c2fb652f8e65",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-100",
+      "source": "GPT Strateji Notları",
+      "document": "B-100",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 133,
+      "sha256": "ed9fd282d6d334a39b4397c2d0ff4bc7236a6946f18e8f9bbf61d3fa1639936f",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-101",
+      "source": "GPT Strateji Notları",
+      "document": "B-101",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1132,
+      "sha256": "34754f9d874807397446e69a56ad4e2687fb7cf2907b8f43ab61c00691925758",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-102",
+      "source": "GPT Strateji Notları",
+      "document": "B-102",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 338,
+      "sha256": "7a94d723a1120dd11e6828bcb2f94cd408af236937b5402e6ecd931a9761186d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-103",
+      "source": "GPT Strateji Notları",
+      "document": "B-103",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 158,
+      "sha256": "deb1d1e26deea1adb93acd29f78285633fb65ff889edcb4752dc39d15639811d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-104",
+      "source": "GPT Strateji Notları",
+      "document": "B-104",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 327,
+      "sha256": "769d5b902e71f3ad988fcb02e3128d409d4fe0c1a094ae3907aa7cf8ddb78346",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-105",
+      "source": "GPT Strateji Notları",
+      "document": "B-105",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 149,
+      "sha256": "b093e5ec336869c899c9b395887c968e674582f66d5a18b1b192c72f95ff5ecb",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-106",
+      "source": "GPT Strateji Notları",
+      "document": "B-106",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 300,
+      "sha256": "89fb7f71c63e658d516e607bafb8b1932be59d377daf4087d02e2dca07fccf6b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-107",
+      "source": "GPT Strateji Notları",
+      "document": "B-107",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 138,
+      "sha256": "dc6e9e9b23bd4582232e95d670f03b4f8454ae2143672ef8b0689a140fb3090e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-108",
+      "source": "GPT Strateji Notları",
+      "document": "B-108",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1117,
+      "sha256": "9837fc1a1b817858d1a61d73ef3980e89722490eef15a15c79d69d5c66b95272",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-109",
+      "source": "GPT Strateji Notları",
+      "document": "B-109",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 334,
+      "sha256": "63d7b2d96909367aa68e0d3f1ef11b628627c7cd0316fd6b2125bab951412d4a",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-110",
+      "source": "GPT Strateji Notları",
+      "document": "B-110",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 207,
+      "sha256": "1791cc535f61d5da9f69d5e655fb74655fe299f67bf4e66fe22b6d91956b34ac",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-111",
+      "source": "GPT Strateji Notları",
+      "document": "B-111",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 269,
+      "sha256": "eb3f438b3d08bae6fb34680be9234a0fbd1e714753b56b9afd8084a2e26f3cc4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-112",
+      "source": "GPT Strateji Notları",
+      "document": "B-112",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 355,
+      "sha256": "60638ca30d5d833ead90e628b7383e20ddd543939209191f286c43e62e386700",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-113",
+      "source": "GPT Strateji Notları",
+      "document": "B-113",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 134,
+      "sha256": "a49b1be64320057c3f2b5c7b36359ffd30d70672ef702b849c821036b59d60c0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-114",
+      "source": "GPT Strateji Notları",
+      "document": "B-114",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "1eed1fc741babd5b419d231f6ec827dd3089e44dbb9b713571a4685e84d603f8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-115",
+      "source": "GPT Strateji Notları",
+      "document": "B-115",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 356,
+      "sha256": "c5bc64bdf01e7297babc371d297a790d5bacefbe9c4d4bea2b08cceb4f02c8f5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-116",
+      "source": "GPT Strateji Notları",
+      "document": "B-116",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 285,
+      "sha256": "883c4bd0125bb7bf3b288b8b86df4b74fe2ebbdf33ac6b3a8e82d4f6f1f32af8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-117",
+      "source": "GPT Strateji Notları",
+      "document": "B-117",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1281,
+      "sha256": "29d98eaeb82087bbc0214b5077c9e06a8ae478e878cac6832eee67fa6a328e4c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-118",
+      "source": "GPT Strateji Notları",
+      "document": "B-118",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 207,
+      "sha256": "3120c3b2f036dd5446d6e353b3aeda08096ca6461b798262708c60bf2016db74",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-119",
+      "source": "GPT Strateji Notları",
+      "document": "B-119",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 214,
+      "sha256": "e70984e1a0026af007dd785cdd2129c843d97efd25112809281eeb116a5429f8",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-120",
+      "source": "GPT Strateji Notları",
+      "document": "B-120",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1057,
+      "sha256": "d0c4c85bf347cc217160acd92778056ded34edda411501fa1cea3d18bf0a7348",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-121",
+      "source": "GPT Strateji Notları",
+      "document": "B-121",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 150,
+      "sha256": "a32287698e8dc006380c4a5ac267bb07a377e9a67cd20e9dfeac945e4d82bcda",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-122",
+      "source": "GPT Strateji Notları",
+      "document": "B-122",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 199,
+      "sha256": "b7a1f4a5b93068636171eaf8b7e78fda0443e798d6bae92ffdb9f591df597caf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-123",
+      "source": "GPT Strateji Notları",
+      "document": "B-123",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 140,
+      "sha256": "565a9149a3b468874ef8ed09c6a7897fb4929f98ef509fbfd145e7360ad1a30c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-124",
+      "source": "GPT Strateji Notları",
+      "document": "B-124",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 280,
+      "sha256": "2ccbae530ef4a71b47660f83f9e5cbd81610bf0ae6cec59be5d96a438452eedd",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-125",
+      "source": "GPT Strateji Notları",
+      "document": "B-125",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1065,
+      "sha256": "c3ce171537a1d76a822066bf207f6e0b07a62f3b3bdcbdb42086138a2b0ef0e4",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-126",
+      "source": "GPT Strateji Notları",
+      "document": "B-126",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 207,
+      "sha256": "4b110f00486e88bf9377694af3adb3fa3804b5de86990255670c2c4e363fa2ed",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-127",
+      "source": "GPT Strateji Notları",
+      "document": "B-127",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 206,
+      "sha256": "58872b31bb8f419d88d670cf3dfbbb832622ee5e5e853eb97f2a5f5551010862",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-128",
+      "source": "GPT Strateji Notları",
+      "document": "B-128",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 284,
+      "sha256": "55d5e37af3b3566d6ea6929f84cd42effb24da0d850ab8e65ae9430ac04eaa7c",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-129",
+      "source": "GPT Strateji Notları",
+      "document": "B-129",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 296,
+      "sha256": "a22506d2b625638410ecb933e3369249bab62e7c293b0f967eaa2c58461ec6bd",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-130",
+      "source": "GPT Strateji Notları",
+      "document": "B-130",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 274,
+      "sha256": "06f7c073294215ff710d6cb4b8e46712d83c8fd7ff6a22902ff1992ba22b39a0",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-131",
+      "source": "GPT Strateji Notları",
+      "document": "B-131",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 259,
+      "sha256": "5557f9f517b48d39984ec1e5ff2c57f4d89a4fe98375205ef909157b06d08881",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-132",
+      "source": "GPT Strateji Notları",
+      "document": "B-132",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 139,
+      "sha256": "83837f73c7bf53f9d2ec3578e81de8155c266f9b746018f68c579fb62194d9eb",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-133",
+      "source": "GPT Strateji Notları",
+      "document": "B-133",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1073,
+      "sha256": "84d88ac9718380c2f4ee225d3571c1320eb3c6513605ae56e5db075d43c021db",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-134",
+      "source": "GPT Strateji Notları",
+      "document": "B-134",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 1062,
+      "sha256": "c3eec0708fa715872491cdfeb5204196a11f583cc3d7e19e28bf9002d96a9a0d",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-135",
+      "source": "GPT Strateji Notları",
+      "document": "B-135",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 138,
+      "sha256": "05b16a4dbefdb4792faf7f4c8e3116981557fc965192e71b9232cf252faa9fb1",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-136",
+      "source": "GPT Strateji Notları",
+      "document": "B-136",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 338,
+      "sha256": "0738d60714868564190b030d718f4a0f31359b955cdbb00c363fa1ede9cac3c5",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-137",
+      "source": "GPT Strateji Notları",
+      "document": "B-137",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 138,
+      "sha256": "ee531f3eaa459a885cf61e3ba1c253d33e59fdbd03320f3b7feccb2e47113caf",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-138",
+      "source": "GPT Strateji Notları",
+      "document": "B-138",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 136,
+      "sha256": "3f1ce7883ad4d683c7f5229001a0b5fe8ff39d46e8e5a52c7a3949074ff51d7e",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-139",
+      "source": "GPT Strateji Notları",
+      "document": "B-139",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 137,
+      "sha256": "917d0fdf0d840ca0ae8187df092d5cf9d99a833e05df06220ad66143a4f07342",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-140",
+      "source": "GPT Strateji Notları",
+      "document": "B-140",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 139,
+      "sha256": "a7ac0c3c1989dac97c4842b7ed0ee02e0e3c6b8be18159df2181eea1ce2591a2",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-141",
+      "source": "GPT Strateji Notları",
+      "document": "B-141",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 146,
+      "sha256": "8b734bd2e07c1e50fac73119471d801428a1395ba4f9cdc3896d9dee5428833b",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    },
+    {
+      "id": "B-142",
+      "source": "GPT Strateji Notları",
+      "document": "B-142",
+      "family": "Ürün, sürüm veya bileşen kaydı",
+      "kind": "İş fikri",
+      "words": 135,
+      "sha256": "2f2e45e8b879b6b45d2d7a0a9329d7043567fa8e50481188a696800e3fecde28",
+      "publication": "Uzlaştırılmış sentez; ham dosya ve özel veriler yayımlanmamıştır"
+    }
+  ],
+  "scope": "Aktif kök Markdown corpusları; önceki not yedekleri, betikler ve ikili sunum/model dosyaları ham olarak yayımlanmaz."
+}

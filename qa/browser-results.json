@@ -1,0 +1,569 @@
+[
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 320,
+    "height": 480,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 320,
+    "height": 568,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 360,
+    "height": 640,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 375,
+    "height": 667,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 390,
+    "height": 844,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 480,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 568,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 767,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 768,
+    "height": 1024,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 769,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 899,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 900,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 901,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "version": "154.0.8037.58",
+    "width": 1440,
+    "height": 900,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "chromium",
+    "searchQralCount": 1,
+    "emptySearchCount": 0,
+    "restoredCount": 46,
+    "selfModePressed": "true",
+    "detailsEnterOpened": true,
+    "detailsSpaceClosed": true,
+    "keyboardFocus": {
+      "active": true,
+      "visible": true,
+      "outline": "solid"
+    },
+    "focus": "solid"
+  },
+  {
+    "browser": "chromium",
+    "resizeSearchPreserved": true,
+    "resizeFocusPreserved": true
+  },
+  {
+    "browser": "chromium",
+    "route": "strateji.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "chromium",
+    "route": "kapsam.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "chromium",
+    "route": "kriterler.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "chromium",
+    "route": "yontem.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "chromium",
+    "remote": [],
+    "errors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 320,
+    "height": 480,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 320,
+    "height": 568,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 360,
+    "height": 640,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 375,
+    "height": 667,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 390,
+    "height": 844,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 480,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 568,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 767,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 768,
+    "height": 1024,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 769,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 899,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 900,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 901,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "version": "155.0",
+    "width": 1440,
+    "height": 900,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "firefox",
+    "searchQralCount": 1,
+    "emptySearchCount": 0,
+    "restoredCount": 46,
+    "selfModePressed": "true",
+    "detailsEnterOpened": true,
+    "detailsSpaceClosed": true,
+    "keyboardFocus": {
+      "active": true,
+      "visible": true,
+      "outline": "solid"
+    },
+    "focus": "solid"
+  },
+  {
+    "browser": "firefox",
+    "resizeSearchPreserved": true,
+    "resizeFocusPreserved": true
+  },
+  {
+    "browser": "firefox",
+    "route": "strateji.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "route": "kapsam.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "route": "kriterler.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "route": "yontem.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "firefox",
+    "remote": [],
+    "errors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 320,
+    "height": 480,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 320,
+    "height": 568,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 360,
+    "height": 640,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 375,
+    "height": 667,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 390,
+    "height": 844,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 480,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 568,
+    "height": 320,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 767,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 768,
+    "height": 1024,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 769,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 899,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 900,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 901,
+    "height": 800,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "version": "26.5",
+    "width": 1440,
+    "height": 900,
+    "lang": "tr",
+    "h1": 1,
+    "overflow": false,
+    "brokenAnchors": []
+  },
+  {
+    "browser": "webkit",
+    "searchQralCount": 1,
+    "emptySearchCount": 0,
+    "restoredCount": 46,
+    "selfModePressed": "true",
+    "detailsEnterOpened": true,
+    "detailsSpaceClosed": true,
+    "keyboardFocus": {
+      "active": true,
+      "visible": true,
+      "outline": "solid"
+    },
+    "focus": "solid"
+  },
+  {
+    "browser": "webkit",
+    "resizeSearchPreserved": true,
+    "resizeFocusPreserved": true
+  },
+  {
+    "browser": "webkit",
+    "route": "strateji.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "route": "kapsam.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "route": "kriterler.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "route": "yontem.html",
+    "httpStatus": 200,
+    "overflow": false
+  },
+  {
+    "browser": "webkit",
+    "remote": [],
+    "errors": []
+  }
+]
